@@ -2,25 +2,19 @@
 label: Post-Template
 hide_body: false
 fields:
-- type: text
-  name: title
-  label: title
-- name: paragraph
-  type: text
-  config:
-    required: false
-  label: Paragraph
 - type: datetime
   name: date
   label: date
   hidden: true
-- name: section
-  type: blocks
-  label: Section
-  template_types: []
+- type: text
+  name: title
+  label: title
+  description: Title of your post
+- name: h2
+  type: text
   config:
-    min: 
-    max: 
-  description: Here you have blocs of text an images
+    required: false
+  label: H2
+  description: description of your post
 pages:
 - content/posts/second-post.md
