@@ -8,3 +8,9 @@ fields:
   template: post-template
   label: Header
   description: Here goes the title and the general info
+- name: cta
+  type: include
+  config: {}
+  template: cta-sign-up
+  label: CTA
+  description: CTA
