@@ -1,4 +1,10 @@
 ---
 label: Post_template
 hide_body: false
-fields: []
+fields:
+- name: header
+  type: include
+  config: {}
+  template: post-template
+  label: Header
+  description: Here goes the title and the general info
