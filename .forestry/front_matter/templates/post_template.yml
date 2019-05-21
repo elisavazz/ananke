@@ -14,3 +14,5 @@ fields:
   template: cta-sign-up
   label: CTA
   description: CTA
+pages:
+- content/posts/hey-this-is-my-third-post.md
