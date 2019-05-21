@@ -22,3 +22,5 @@ fields:
     min: 
     max: 
   description: Here you have blocs of text an images
+pages:
+- content/posts/second-post.md
