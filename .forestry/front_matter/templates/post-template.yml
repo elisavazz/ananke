@@ -1,5 +1,5 @@
 ---
-label: Post-Template
+label: Header
 hide_body: false
 fields:
 - type: datetime
