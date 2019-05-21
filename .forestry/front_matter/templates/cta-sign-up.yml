@@ -1,4 +1,20 @@
 ---
 label: 'CTA sign-up '
 hide_body: true
-fields: []
+fields:
+- name: sign_up
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: Sign up
+  description: Sign up here!
+- name: email_sign_up
+  type: text
+  config:
+    required: false
+  label: email sign up
+  description: cta
