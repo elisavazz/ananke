@@ -5,6 +5,20 @@ fields:
 - type: text
   name: title
   label: title
+- name: paragraph
+  type: text
+  config:
+    required: false
+  label: Paragraph
 - type: datetime
   name: date
   label: date
+  hidden: true
+- name: section
+  type: blocks
+  label: Section
+  template_types: []
+  config:
+    min: 
+    max: 
+  description: Here you have blocs of text an images
