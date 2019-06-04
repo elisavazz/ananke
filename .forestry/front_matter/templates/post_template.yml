@@ -15,4 +15,5 @@ fields:
   label: CTA
   description: CTA
 pages:
+- content/posts/this-is-a-donut-chart-post.md
 - content/posts/hey-this-is-my-third-post.md
