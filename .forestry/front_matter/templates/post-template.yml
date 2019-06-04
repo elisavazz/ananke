@@ -10,11 +10,11 @@ fields:
   name: title
   label: title
   description: Title of your post
-- name: h2
+- name: description
   type: text
   config:
     required: false
-  label: H2
   description: description of your post
+  label: subtitle
 pages:
 - content/posts/second-post.md
