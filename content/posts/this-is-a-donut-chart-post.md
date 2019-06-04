@@ -8,6 +8,10 @@ title = "this is a donut chart post"
 +++
 ![](/uploads/GiPoqQOpSfKpofL0h_JTHg(2).png)
 
-**Donut charts are like pie charts but tastier**
+#### **Donut charts are like pie charts but tastier**
+
+Compared to a standard timeline that shows pinpointed single events, the layered timeline accurately expresses the duration/length of whole processes or events. Like in a Gantt chart, each bar/layer represents one process/task, with a start and an end date.
+
+#### **What can you visualize with donuts?**
 
 Compared to a standard timeline that shows pinpointed single events, the layered timeline accurately expresses the duration/length of whole processes or events. Like in a Gantt chart, each bar/layer represents one process/task, with a start and an end date.
